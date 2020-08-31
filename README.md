@@ -14,3 +14,5 @@ The input network flow is as following.
 ![alt text](https://github.com/tjfy1992/Network_Flow_Python/blob/master/Input.PNG)
 
 The two algorithms will give same results.
+The output network flow is as following. The max flow is 10 + 5 + 13 = 9 + 9 + 10 = 28.
+![alt text](https://github.com/tjfy1992/Network_Flow_Python/blob/master/Output.PNG)
