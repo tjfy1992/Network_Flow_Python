@@ -4,7 +4,7 @@ The implementation uses two algorithms: Simplex Algorithm(linear programming) an
 The project is written in Pycharm for Windows. Python version is 3.7.4 x64, pytest version is 5.1.2.
 The project uses the graph library at https://github.com/tjfy1992/GraphLibraryPython as its library for Ford-Fulkerson Algorithm.
 
-To run the program with Simple Algorithm, run
+To run the program with Simplx Algorithm, run
 runner.bat simplex
 
 To run the program with Ford-Fulkerson Algorithm, run
